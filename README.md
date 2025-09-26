@@ -1,1 +1,1 @@
-# task4
+In this lab, UFW was used on Linux to practice basic firewall management and understand traffic filtering. SSH (port 22) was allowed for secure access, while Telnet (port 23) was blocked to show how rules control connections. This demonstrated how firewalls protect systems by permitting trusted traffic and denying unauthorized access.
